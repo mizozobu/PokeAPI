@@ -8,10 +8,6 @@
 
 import Foundation
 
-import Foundation
-
-
-
 class PokemonList {
     
     // Mark - Property
